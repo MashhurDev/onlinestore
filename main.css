@@ -2,3 +2,10 @@ h1{
     background-color: forestgreen;
     text-align: center;
 }
+
+.foo{
+    background-color: #555;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
